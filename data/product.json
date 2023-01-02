@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "images": [
+            "https://backend.texnomart.uz/images/gallery/product/83773/13643/detail.jpg"
+        ],
+        "title": "Changyutgich Ferre VC 1108C Kulrang",
+        "price": 4488000,
+        "quantity": 5,
+        "new": true,
+        "best": true,
+        "discount": 0,
+        "rating": 4,
+        "category": [ "telefonlar"],
+        "tag": [""],
+        "description": "",
+        "variation": {
+            "color": ["qora"],
+            "sizes": [""]
+        }
+    },
+    {
+        "id": 2,
+        "images": [
+            "https://backend.texnomart.uz/images/gallery/product/95498/27457/detail.jpg"
+        ],
+        "title": "Samsung Galaxy Tab A 8.0 SM-T295",
+        "price": 787000,
+        "quantity": 5,
+        "new": true,
+        "best": true,
+        "discount": 0,
+        "rating": 4,
+        "category": [ "planshetlar"],
+        "tag": [""],
+        "description": "",
+        "variation": {
+            "color": ["kulrang"],
+            "sizes": [""]
+        }
+    }
+   
+   
+]
