@@ -1,4 +1,4 @@
-# flone-vue
+# 2-3 zadaniyaning javobi -vue
 
 ## Build Setup
 
